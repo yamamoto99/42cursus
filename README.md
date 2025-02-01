@@ -2,9 +2,16 @@
   42Cursus Projects
 </h1>
 
-<h4 align="center">
+<div align="center">
+    <img 
+      src="https://github.com/user-attachments/assets/df6ff25a-5e5f-4eaf-b7fa-6bb954073cb1" 
+    />
+</div>
+
+<h5 align="center">
 This repository is a summary of my study at 42cursus
-</h4>
+</h5>
+</br>
 
 <h2 align="center">
   My Projects
