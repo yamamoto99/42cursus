@@ -7,17 +7,20 @@ This repository is a summary of my study at 42cursus
 </h4>
 
 <h2 align="center">
-  My Successful Projects
+  My Projects
 </h2>
 
 <p align="center">
-  <img src="badges/libftm.png"/>
-  <img src="badges/ft_printfe.png"/>
-  <img src="badges/get_next_linee.png"/>
+  <a href="https://github.com/yamamoto99/42cursus-Libft">
+    <img src="badges/libftm.png" alt="Libft"/>
+  </a>
+  <a href="https://github.com/yamamoto99/42cursus-ft_printf">
+    <img src="badges/ft_printfe.png" alt="ft_printf"/>
+  </a>
+  <a href="https://github.com/yamamoto99/42cursus-get_next_line">
+    <img src="badges/get_next_linee.png" alt="get_next_line"/>
+  </a>
+    <a href="https://github.com/yamamoto99/42cursus-Born2beroot">
+    <img src="badges/born2berootn.png" alt="born2beroot"/>
+  </a>
 </p>
-
-| Rank 00          | Rank 01          | Rank 02         | Rank 03         | Rank 04         | Rank 05         | Rank 06         |
-|------------------|------------------|-----------------|-----------------|-----------------|-----------------|-----------------|
-| [Libft](#)       | [Born2BeRoot](#) |                 |                 |                 |                 |                 |
-|                  | [Printf](#)      |                 |                 |                 |                 |                 |
-|                  | [Get_Next_Line](#)|                 |                 |                 |                 |                 |
