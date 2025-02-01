@@ -1,16 +1,12 @@
-<h1 align="center">
-  42Cursus Projects
-</h1>
-
 <div align="center">
     <img 
       src="https://github.com/user-attachments/assets/df6ff25a-5e5f-4eaf-b7fa-6bb954073cb1" 
     />
 </div>
 
-<h5 align="center">
+<h4 align="center">
 This repository is a summary of my study at 42cursus
-</h5>
+</h4>
 </br>
 
 <h2 align="center">
