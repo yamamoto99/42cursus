@@ -23,7 +23,7 @@ This repository is a summary of my study at 42cursus
   <a href="https://github.com/yamamoto99/42cursus-get_next_line">
     <img src="badges/get_next_linee.png" alt="get_next_line"/>
   </a>
-    <a href="https://github.com/yamamoto99/42cursus-Born2beroot">
+    <a href="https://github.com/yamamoto99/42cursus-Born2beroote">
     <img src="badges/born2berootn.png" alt="born2beroot"/>
   </a>
 </p>
