@@ -26,4 +26,8 @@ This repository is a summary of my study at 42cursus
     <a href="https://github.com/yamamoto99/42cursus-Born2beroot">
     <img src="badges/born2beroote.png" alt="born2beroot"/>
   </a>
+  </a>
+    <a href="https://github.com/yamamoto99/42cursus-minitalk">
+    <img src="badges/minitalke.png" alt="minitalk"/>
+  </a>
 </p>
